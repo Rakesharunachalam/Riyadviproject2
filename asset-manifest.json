@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Riyadviproject2/static/css/main.74b38c29.css",
+    "main.js": "/Riyadviproject2/static/js/main.f2d8de37.js",
+    "index.html": "/Riyadviproject2/index.html",
+    "main.74b38c29.css.map": "/Riyadviproject2/static/css/main.74b38c29.css.map",
+    "main.f2d8de37.js.map": "/Riyadviproject2/static/js/main.f2d8de37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74b38c29.css",
+    "static/js/main.f2d8de37.js"
+  ]
+}
